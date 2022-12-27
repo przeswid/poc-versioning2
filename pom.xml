@@ -3,8 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>poc-versioning</artifactId>
-    <version>1.0</version>
+    <artifactId>poc-versioning2</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -13,10 +13,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git@github.com:przeswid/poc-versioning.git</connection>
-        <developerConnection>scm:git:git@github.com:przeswid/poc-versioning.git</developerConnection>
-    <tag>release/v1.0.0</tag>
-  </scm>
+        <connection>scm:git:git@github.com:przeswid/poc-versioning2.git</connection>
+        <developerConnection>scm:git:git@github.com:przeswid/poc-versioning2.git</developerConnection>
+    </scm>
 
     <build>
         <plugins>
