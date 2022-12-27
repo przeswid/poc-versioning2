@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>poc-versioning2</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -15,7 +15,6 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/przeswid/poc-versioning2.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/przeswid/poc-versioning2.git</developerConnection>
-    <tag>v1.0</tag>
   </scm>
 
     <build>
