@@ -15,7 +15,7 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/przeswid/poc-versioning2.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/przeswid/poc-versioning2.git</developerConnection>
-    <tag>v1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
     <build>
